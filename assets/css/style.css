@@ -1,0 +1,22 @@
+:root{
+  background-color: #2d232e;
+}
+
+.container {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  width: 450px;
+  background-color: #e0ddcf !important;
+}
+input {
+  background-color: #f1f0ea !important;
+}
+.button {
+  background-color: #2d232e !important;
+  color: #f1f0ea !important;
+}
