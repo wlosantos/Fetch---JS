@@ -6,7 +6,4 @@ Este material e resultado dos meus estudos de envio e recebimento de dados de um
 + CSS - A inserção da responsividade utilizando Flexbox
 + Javascript - Eventos, Objetos, Funções e manipulação do DOM
 
-![JS fetch_api](/home/wendellopes/novaProgramacao/cursos/udemy/jsTypescript/api/troianos-fetch/assets/img/JS fetch_api.jpg)
-
-
-
+![JS fetch_api](https://github.com/wlosantos/Fetch---JS/blob/master/assets/img/JS%20fetch_api.jpg)
